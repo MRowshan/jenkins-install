@@ -10,3 +10,4 @@ sudo yum install jenkins -y
 
 # sudo service jenkins start
 # sudo service jenkins stop
+# sudo cat /var/lib/jenkins/secrets/initialAdminPassword
