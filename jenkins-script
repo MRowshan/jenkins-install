@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# curl https://raw.githubusercontent.com/MRowshan/jenkins-install/master/jenkins-script | bash
+sudo yum install git -y
+
 # https://www.vultr.com/docs/how-to-install-jenkins-on-centos-7
 
 sudo yum install java -y
